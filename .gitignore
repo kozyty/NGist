@@ -3,10 +3,11 @@ log/**/*
 tmp/*
 tmp/**/*
 bin/*
+vendor/bundle/*
+vendor/bundle/**/*
 vendor/gems/*
 !vendor/gems/cache/
 .sass-cache/*
-vendor/bundle/*
 .bundle
 config/setting.yml
 db/*.db
