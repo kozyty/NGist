@@ -6,7 +6,7 @@ bin/*
 vendor/gems/*
 !vendor/gems/cache/
 .sass-cache/*
-vendor/bundle
+vendor/bundle/*
 .bundle
 config/setting.yml
 db/*.db

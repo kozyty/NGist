@@ -13,7 +13,8 @@ gem 'sass'
 gem 'haml'
 
 gem 'activerecord', :require => "active_record"
-gem 'sqlite3'
+gem 'mysql'
+#gem 'sqlite3'
 
 # Test requirements
 gem 'rspec', :group => "test"
