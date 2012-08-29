@@ -1,7 +1,7 @@
 ja:
  date_format: "%Y-%m-%d %H:%M:%S"
  home: "ホーム"
- about: "debeso について"
+ about: "NGist について"
  search: "検索"
  add_snippet: "スニペットを追加"
  recent_snippets: "最近のスニペット"
@@ -21,6 +21,6 @@ ja:
  revision: "リビジョン"
  no_name: "無名"
  this_content_is_no_longer_available: "コンテンツが有効ではありません"
- about_debeso: "debeso について"
+ about_ngist: "NGist について"
  delete_a_snippet_successful: "スニペットの削除に成功しました"
 
